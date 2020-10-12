@@ -1,0 +1,359 @@
+[
+  {
+    "slug": "zhenya-rynzhuk",
+    "title": "Zhenya<br>Rynzhuk",
+    "cover": "hero.jpg",
+    "color": "#FFFFFF",
+    "year": "2019",
+    "keywords": ["vueJs", "nuxtJs", "bodymovin", "animejs"],
+    "desc": "<p>Zhenya is an Art director, digital & graphic designer with architectural background.</p><p>She believes in the connection of usability and visual aspects in all the products.</p>",
+    "content": [
+      {
+        "type" : "vVideo",
+        "src": "zhenya.mp4"
+      },
+      {
+        "type" : "vImage",
+        "src": "zhenya-1.jpg"
+      },
+      {
+        "type" : "vImageFull",
+        "src": "zhenya-2.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "zhenya-3.jpg"
+      }
+    ],
+    "awards":[
+      {
+
+      }
+    ],
+    "credits": [
+      "<a href=\"https://zhenyary.com\" target=\"_blank\" rel=\"noopener\">Zhenya Rynzhuk</a>"
+    ]
+    },
+    {
+      "slug": "beauregard",
+      "title": "Beauregard",
+      "cover": "hero.jpg",
+      "color": "#FFFFFF",
+      "year": "2019",
+      "keywords": ["vueJs", "nuxtJs", "pixiJs", "gsap"],
+      "desc": "<p>Discover the universe of the maison BEAUREGARD, a contemporary concept underpinned by a pofound respect for craftsmanship.</p><p>The first collection, named dahlia, reflects his deep desire to emphasizes the link between haute horlogerie and jewelery.</p>",
+      "content": [
+
+        {
+          "type" : "vColumn",
+          "media": [
+            {
+              "type": "image",
+              "src": "beauregard-1a.jpg"
+            },
+            {
+              "type": "imageSafari",
+              "src": "beauregard-1b.jpg"
+            },
+            {
+              "type": "video",
+              "src": "maison.mp4"
+            }
+          ]
+        },
+        {
+          "type" : "vImageFull",
+          "src": "beauregard-2.jpg"
+        },
+        {
+          "type" : "vImage",
+          "src": "beauregard-3.jpg"
+        },
+        {
+          "type" : "vColumn",
+          "media": [
+            {
+              "type": "video",
+              "src": "maison-3.mp4"
+            },
+            {
+              "type": "imageSafari",
+              "src": "beauregard-4b.jpg"
+            },
+            {
+              "type": "image",
+              "src": "beauregard-4a.jpg"
+            }
+          ]
+        }
+      ],
+    "awards":[
+      {
+        "title": "SOTD, ME, HM",
+        "from": "Awwwards",
+        "site": "Beauregard",
+        "link": "https://www.awwwards.com/sites/beauregard"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://dominiquepicone.com\" target=\"_blank\" rel=\"noopener\">Dominique Picone</a>"
+    ]
+  },
+  {
+    "slug": "beyond-beauty",
+    "title": "Beyond<br>Beauty",
+    "cover": "hero.jpg",
+    "color": "#FFFFFF",
+    "year": "2018",
+    "keywords": ["vueJs", "nuxtJs", "pixiJs", "gsap", "howlerJs"],
+    "desc": "<p>This experience website showcases four women, primarily known for their appearance although they are doing great things in feminism, politics, women body image in society and education.</p><p>For each of them, we highlight a speech they made and illustrate it with collage, video, motion graphics; we also put key facts about them in a timeline so users can learn more about what they actually do for the greater good.</p>",
+    "content": [
+      {
+        "type" : "vVideo",
+        "src": "beyond-beauty.mp4"
+      },
+      {
+        "type" : "vImage",
+        "src": "bb-1.jpg"
+      },
+      {
+        "type" : "vImageFull",
+        "src": "bb-2.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "bb-3.jpg"
+      }
+    ],
+    "awards":[
+      {
+        "title": "SOTD",
+        "from": "FWA",
+        "site": "Beyond beauty",
+        "link": "https://thefwa.com/cases/beyond-beauty"
+      },
+      {
+        "title": "SOTM, SOTD, Devaward, HM",
+        "from": "Awwwards",
+        "site": "Beyond beauty",
+        "link": "https://www.awwwards.com/sites/beyond-beauty"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://twitter.com/LouisAnsa\" target=\"_blank\" rel=\"noopener\">Louis Ansa</a>",
+      "<a href=\"https://twitter.com/NahelMoussi\" target=\"_blank\" rel=\"noopener\">Nahel Moussi</a>"
+    ]
+  },
+  {
+    "slug": "randstad",
+    "title": "Randstad",
+    "cover": "hero-1.jpg",
+    "color": "#FFFFFF",
+    "year": "2019",
+    "keywords": ["vueJs", "nuxtJs", "pixiJs", "animejs", "bodymovin"],
+    "desc": "<p>Find a job with or without Randstad.</p><p>1 family, 2 versions of their story:<br>an interactive experience designed to show how Randstad can help candidates find a job while fulfilling their dreams.",
+    "content": [
+      {
+        "type" : "vVideo",
+        "src": "randstad-1.mp4"
+      },
+      {
+        "type" : "vImage",
+        "src": "randstad-1.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "randstad-2.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "randstad-3.jpg"
+      }
+    ],
+    "awards":[
+      {
+        "title": "HM",
+        "from": "Awwwards",
+        "site": "Avec ou sans Randstad",
+        "link": "https://www.awwwards.com/sites/avec-ou-sans-randstad"
+      }
+    ],
+    "credits": [
+      "<a href=\"http://agence4.co/\" target=\"_blank\" rel=\"noopener\">Agence4</a>",
+      "<a href=\"http://weareangstrom.com/fr/\" target=\"_blank\" rel=\"noopener\">Angström.com</a>",
+      "<a href=\"http://4aout.fr/\" target=\"_blank\" rel=\"noopener\">4Aout</a>"
+    ]
+  },
+  {
+    "slug": "france98",
+    "title": "France98",
+    "cover": "hero.jpg",
+    "color": "#FFFFFF",
+    "year": "2018",
+    "keywords": ["vueJs", "nuxtJs", "gsap"],
+    "desc": "<p>20 years ago, French football team won his first world cup!!!!</p><p>This website is a webdocumentary to relate this story.</p>",
+    "content": [
+      {
+        "type" : "vImage",
+        "src": "france-1.jpg"
+      },
+      {
+        "type" : "vImageFull",
+        "src": "france-2.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "france-3.jpg"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://www.upian.com/\" target=\"_blank\" rel=\"noopener\">Upian</a>"
+    ]
+  },
+  {
+    "slug": "veja-project",
+    "title": "Veja<br>Project",
+    "cover": "hero.jpg",
+    "color": "#FFFFFF",
+    "year": "2018",
+    "keywords": ["vueJs", "ThreeJS", "gsap", "howlerJs"],
+    "desc": "<p>Discover how VEJA works, product, build, in total transparency and environment respect.</p><p> An audio format using web GL particles in a documentary experience.</p>",
+    "content": [
+      {
+        "type" : "vImage",
+        "src": "veja-1.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "veja-2.jpg"
+      },
+      {
+        "type" : "vImageFull",
+        "src": "veja-3.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "veja-4.jpg"
+      }
+    ],
+    "awards":[
+      {
+        "title": "HM",
+        "from": "Awwwards",
+        "site": "Veja",
+        "link": "https://www.awwwards.com/sites/veja-project"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://www.upian.com/\" target=\"_blank\" rel=\"noopener\">Upian</a>"
+    ]
+  },
+  {
+    "slug": "les-grandes-serres-de-pantin",
+    "title": "Les grandes<br>serres<br>de Pantin",
+    "cover": "hero-1.jpg",
+    "color": "#FFFFFF",
+    "year": "2016",
+    "keywords": ["vueJs", "pixi", "gsap"],
+    "desc": "<p>The Grandes-Serres de Pantin began their metamorphosis to gather, in 2021, offices conceived in a spirit of community of talents and sharing of experiences.</p>",
+    "content": [
+      {
+        "type" : "vImage",
+        "src": "pantin-1.jpg"
+      },
+      {
+        "type" : "vImageFull",
+        "src": "pantin-2.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "pantin-3.jpg"
+      }
+    ],
+    "awards":[
+      {
+        "title": "HM",
+        "from": "Awwwards",
+        "site": "Les grandes serres",
+        "link": "https://www.awwwards.com/sites/les-grandes-serres"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://betcdigital.com/\" target=\"_blank\" rel=\"noopener\">BETC Digital</a>"
+    ]
+  },
+  {
+    "slug": "we-are-spheres",
+    "title": "We are<br>sphères",
+    "cover": "hero.jpg",
+    "color": "#FFFFFF",
+    "year": "2016",
+    "keywords": ["vueJs", "WordPress","gsap"],
+    "desc": "<p>Sphères is a Design and Innovation bureau.<br>They bring future experiences to Life.<br>They chart out new economic opportunities.<br>They dream up innovative experiences.<br>They design products and services.<br>They lead teams into changing territories.</p>",
+    "content": [
+      {
+        "type" : "vVideo",
+        "src": "sphere.mp4"
+      },
+      {
+        "type" : "vImageFull",
+        "src": "sphere-1.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "sphere-2-1.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "sphere-3.jpg"
+      }
+    ],
+    "credits": [
+      "<a href=\"http://nicolasstefanopeddelay.com/\" target=\"_blank\" rel=\"noopener\">Nicolas peddle lay</a>"
+    ]
+  },
+  {
+    "slug": "remember-everything",
+    "title": "Remember<br>everything",
+    "color": "#ffffff",
+    "cover": "hero.jpg",
+    "year": "2016",
+    "keywords": ["vueJs", "canvas", "gsap"],
+    "desc": "<p>Where were you on that day?<br>What did you do?<br>Who were you with?</p><p>Thanks to the Jason Bourne immersive experience & its innovative algorithm, challenge your Facebook and Instagram memories through Google Streetview!</p>",
+    "content": [
+      {
+        "type" : "vImage",
+        "src": "remember-1.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "remember-2.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "remember-3.jpg"
+      },
+      {
+        "type" : "vImage",
+        "src": "remember-4.jpg"
+      }
+    ],
+    "awards":[
+      {
+        "title": "SOTD",
+        "from": "FWA",
+        "site": "Remember everything",
+        "link": "https://thefwa.com/cases/remember-everything-the-jason-bourne-experience-p2"
+      },
+      {
+        "title": "SOTD",
+        "from": "Awwwards",
+        "site": "Remember everything",
+        "link": "https://www.awwwards.com/sites/the-jason-bourne-experience"
+      }
+    ],
+    "credits": [
+      "<a href=\"https://www.stinkstudios.com/\" target=\"_blank\" rel=\"noopener\">Stink studio</a>"
+    ]
+  }
+]

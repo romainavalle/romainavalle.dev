@@ -1,0 +1,14 @@
+{
+  "title": "<span class=\"hand\">👋</span> Hi there.",
+  "textLarge": [
+    "I'm an Interactive developer based<br>in <span class=\"strike\">London</span> <span class=\"strike\">Paris</span> Amsterdam."
+  ],
+  "text": [
+    "Glad to meet you!<br>I'm Romain, I'm a 38 years old front end developer.<br>I have been working in this industry for more than 10 years and I still enjoy being part of it!",
+    "Right after my diploma at Gobelins, I moved to London, I started my career in Shoreditch as a flash developer at lingoBee during 3 years.<br>Then I took a year off to discover China and Australia.",
+    "Back in France, I worked as lead frontend dev at 5emegauche for 5 years.",
+    "I've been freelancing for the last 5 years, and right now I look forward to work with you!"
+  ],
+  "img": "portrait-0.jpg",
+  "legend": "This is not me...<br>but a friend who looks way more photogenic!"
+}
