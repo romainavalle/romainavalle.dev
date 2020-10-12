@@ -2,7 +2,7 @@
 
 > Romain Avalle Portfolio
 
-(https://romainavalle.dev)[https://romainavalle.dev]
+[https://romainavalle.dev](https://romainavalle.dev)
 
 ## Build Setup
 
